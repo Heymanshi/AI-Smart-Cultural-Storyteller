@@ -1,0 +1,12 @@
+# Flask: Backend web server for our story generation interface
+flask
+
+# Google Cloud AI Platform (Vertex AI) for integrating Gemini models
+google-cloud-aiplatform
+
+# Google Cloud Speech-to-Text library to convert user audio input into text
+google-cloud-speech
+
+# Google Cloud Text-to-Speech library to convert story text into audio output
+google-cloud-texttospeech
+
